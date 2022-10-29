@@ -1,1 +1,0 @@
-.cette phrase est ajouté directement dans git hub (serveur global)
